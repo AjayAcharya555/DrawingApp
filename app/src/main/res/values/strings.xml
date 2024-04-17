@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Drawing</string>
+    <string name="dialog_txt">Please wait....</string>
 </resources>
